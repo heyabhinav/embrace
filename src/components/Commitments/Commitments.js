@@ -63,7 +63,7 @@ function Commitments(){
                             </span>
                         </div>
                     <div className="learn-more-img">
-                            <span className="learn-more-text">
+                            <span className="commitment-learn-more-text">
                                 <span>Learn More</span>
                             </span>
                             <img
