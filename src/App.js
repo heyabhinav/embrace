@@ -7,6 +7,7 @@ import Working from './components/Working/Working';
 import Banner from './components/Banner/Banner';
 import OurTeam from './components/OurTeam/OurTeam';
 import Clients from './components/Clients/Clients';
+import StartJourney from './components/StartJourney/StartJourney';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Banner/>
       <OurTeam/>
       <Clients/>
+      <StartJourney/>
     </>
   );
 }
