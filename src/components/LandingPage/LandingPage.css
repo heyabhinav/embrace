@@ -16,22 +16,25 @@
 .landing-page-frame97 {
     top: 18px;
     left: 101px;
-    width: 1239px;
+    width: 85.6%;
     display: flex;
     position: absolute;
     align-items: center;
     border-color: transparent;
+    /* background-color: bisque; */
 }
 .landing-page-frame96 {
+    width: 50%;
     display: flex;
     position: relative;
     align-items: center;
     border-color: transparent;
     margin-right: 474px;
+    /* background-color: aquamarine; */
 }
 
 .landing-page-group21841 {
-    width: 150px;
+    width: 50%;
     height: 32px;
     display: flex;
     flex-direction: row;
@@ -46,22 +49,22 @@
 }
 
 .header .header-circle{
-    top: 7px;
+    top: 6px;
     left: 0px;
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
     position: absolute;
     border-color: transparent;
 }
 .header .header-arrow{
-    top: 6px;
-    left: 14px;
-    width: 15px;
-    height: 17px;
+    top: 5px;
+    left: 17px;
+    width: 22px;
+    height: 22px;
     position: absolute;
 }
 .brand-logo{
-    left: 30px;
+    left: 25%;
     color: rgba(0, 0, 0, 1);
     height: auto;
     position: absolute;
@@ -74,10 +77,11 @@
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
+    /* background-color: blue; */
 }
 
 .nav-bar{
-    width: 80%;
+    width: 800px;
     /* height: 22px; */
     font-family: 'DM Sans';
     font-style: normal;
@@ -85,7 +89,7 @@
     font-size: 16px;
     line-height: 22px;
     text-transform: capitalize;
-    /* background-color: aquamarine; */
+    /* background-color: aqua; */
     color: #000000;
 }
 .nav-bar-text{
@@ -107,6 +111,7 @@
     border-color: transparent;
     border-radius: 70px;
     background-color: rgba(52, 96, 255, 1);
+    margin-left: 1.8em;
 }
 
 .try-button-text{

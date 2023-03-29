@@ -8,16 +8,16 @@ function LandingPage(){
           <div className="landing-page-frame97">
             <div className="landing-page-frame96">
               <div className="landing-page-group21841">
-                <span className="brand-logo landing-page-text165">
+                <span className="brand-logo">
                   <span>Embrace</span>
                 </span>
                 <img
-                  src="/images/Ellipse 87.jpg"
+                  src="/images/circle.svg"
                   alt="Ellipse871684"
                   className="header-circle"
                 />
                 <img
-                  src="/images/Polygon 1.jpg"
+                  src="/images/triangle.svg"
                   alt="Polygon11685"
                   className="header-arrow"
                 />
