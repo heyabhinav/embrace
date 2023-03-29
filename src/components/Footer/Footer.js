@@ -83,8 +83,24 @@ function Footer(){
                         <span>Report a Bug</span>
                     </span>
                 </div>
+            </div>      
+        </div>
+        <div className="landing-page-footer">
+            <span className="copyright">
+                <span>© 2022 Embrace, Inc. - All Rights Reserved</span>
+            </span>
+            <div className="terms-and-policy">
+                <span className="terms">
+                    <span>
+                        Terms of use
+                    </span>
+                </span>
+                <span className="policy">
+                    <span>
+                        Privacy policy
+                    </span>
+                </span>
             </div>
-            
         </div>
         </>
     );
