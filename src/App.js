@@ -4,6 +4,7 @@ import Companies from './components/Companies/Companies';
 import LandingPage from './components/LandingPage/LandingPage';
 import OurWork from './components/OurWork/OurWork';
 import Working from './components/Working/Working';
+import Banner from './components/Banner/Banner';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Commitments/>
       <Working/>
       <OurWork/>
+      <Banner/>
     </>
   );
 }
