@@ -6,6 +6,7 @@ import OurWork from './components/OurWork/OurWork';
 import Working from './components/Working/Working';
 import Banner from './components/Banner/Banner';
 import OurTeam from './components/OurTeam/OurTeam';
+import Clients from './components/Clients/Clients';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <OurWork/>
       <Banner/>
       <OurTeam/>
+      <Clients/>
     </>
   );
 }
