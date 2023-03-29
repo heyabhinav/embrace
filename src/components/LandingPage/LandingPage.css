@@ -205,10 +205,14 @@
     position: relative;
     align-items: center;
     flex-shrink: 0;
-    border: .5px solid black;
+    border: .5px solid rgba(0, 0, 0, 0.2);
     margin-right: 12px;
     border-radius: 37px;
     background-color: rgb(255, 255, 255);
+}
+
+.email{
+    color: rgba(0, 0, 0, 0.553);
 }
 
 .lets-talk-div{
@@ -305,18 +309,100 @@
 }
 
 .cloud-2{
-    top: 420px;
+    top: 53%;
     left: 144px;
-    width: 110px;
-    height: 100px;
+    width: 130px;
+    height: 111px;
     position: absolute;
-    /* padding: 1rem; */
-    background-color: blue;
 }
 .cloud-1 {
     top: -10%;
-    left: 55%;
-    width: 120px;
+    left: 42%;
+    width: 130px;
     height: 111px;
     position: absolute;
 } 
+.loving-emoji{
+  top: 52px;
+  left: 564px;
+  color: rgba(0, 0, 0, 1);
+  width: 55px;
+  height: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 54.4444465637207px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: 68.05555725097656px;
+  font-stretch: normal;
+  text-decoration: none;
+/* padding: 2em; */
+/* background-color: aqua; */
+}
+.pencile{
+  top: 400px;
+  left: 900px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: 90px;
+  position: absolute;
+  font-size: 84px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-weight: 900;
+  line-height: 105px;
+  font-stretch: normal;;
+}
+.girl-emoji {
+  top: 574px;
+  left: 1090px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 98.00000762939453px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: 122.50000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.crown {
+  top: 570px;
+  left: 1250px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 98.00000762939453px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: 122.50000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.just{
+  top: 240px;
+  left: 508px;
+  color: rgba(0, 0, 0, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 54.4444465637207px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: 68.05555725097656px;
+  font-stretch: normal;
+  text-decoration: none;
+}

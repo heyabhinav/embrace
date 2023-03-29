@@ -117,7 +117,7 @@ function LandingPage(){
               className="img-stack-basic rectangle205"
             />
             
-            {/* <img
+            <img
               src="images/union1706-wmw.svg"
               alt="message cloud 1"
               className="cloud-1 landing-page-union1"
@@ -126,24 +126,24 @@ function LandingPage(){
               src="/images/union1703-802h.svg"
               alt="message cloud 2"
               className="cloud-2 landing-page-union"
-            /> */}
+            />
             
           </div>
-          {/* <span className="landing-page-text177">
-            <span>✏️</span>
+          <span>
+              <img src="/images/pencile.png" className="pencile"/>
           </span>
-          <span className="landing-page-text179">
-            <span>👩🏻‍💻</span>
+          <span>
+              <img src="/images/girl-emoji.svg" className="girl-emoji"/>
           </span>
-          <span className="landing-page-text181">
-            <span>👑</span>
+          <span >
+              <img src="/images/crown.svg" className="crown"/>
           </span>
-          <span className="landing-page-text183">
-            <span>🤌</span>
+          <span className="just">
+              <img src="/images/just.png" className="just"/>
           </span>
-          <span className="landing-page-text185">
-            <span>😍</span>
-          </span> */}
+          <span className="loving-emoji">
+            <span><img src="/images/loving-emoji.png" className="loving-emoji"/></span>
+          </span>
         </div>
         </>
     )
