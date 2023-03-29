@@ -1,0 +1,191 @@
+.landing-page-help {
+    position: absolute;
+    top: 760%;
+    left: 1px;
+    width: 100%;
+    height: 480px;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    /* background-color: beige; */
+  }
+.landing-page-frame93 {
+    top: 90px;
+    left: 93px;
+    width: 85.6%;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+}
+.landing-page-frame90 {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-right: 120px;
+    flex-direction: column;
+}
+.ques-box{
+    width: 616px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin-bottom: 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.top{
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+.bottom{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.ques-frame{
+    display: flex;
+    padding: 32px 10px;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    margin-right: 0px;
+}
+.question{
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    line-height: 36px;
+    /* background-color: aqua; */
+}
+.plus-symbol {
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+.help-col-2{
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+    /* background-color: antiquewhite; */
+    margin-left: 4.5em;
+}
+.ques-email{
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 42px;
+    flex-direction: column;
+    /* background-color: aqua; */
+}
+.ques-text{
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    margin-bottom: 32px;
+    flex-direction: column;
+    /* background-color: aquamarine; */
+  }
+.ques-heading{
+    color: rgba(0, 0, 0, 1);
+    width: 487px;
+    height: auto;
+    font-size: 40px;
+    align-self: auto;
+    text-align: left;
+    font-family: 'DM Sans';
+    font-weight: 600;
+    line-height: 52px;
+    margin-bottom: 16px;
+    text-transform: capitalize;
+}
+.follow{
+    color: rgba(0, 0, 0, 0.6000000238418579);
+    width: 431px;
+    height: auto;
+    opacity: 0.75;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    line-height: 36px;
+}
+.email-talk{
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+.email-box{
+    width: 309px;
+    display: flex;
+    padding: 20px 18px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    margin-right: 8px;
+    border-radius: 37px;
+    background-color: rgba(250, 250, 250, 1);
+}
+.email-placeholder{
+    color: rgba(170, 170, 170, 1);
+    font-size: 16px;
+    font-style: Medium;
+    text-align: left;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.talk-box{
+    width: 144px;
+    height: 62px;
+    display: flex;
+    padding: 20px 24px;
+    position: relative;
+    align-items: center;
+    border-radius: 70px;
+    justify-content: center;
+    background-color: rgba(52, 96, 255, 1);
+  }
+.talk-text{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    font-style: Medium;
+    text-align: left;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    line-height: 20px;
+  }
+.FAQ-box{
+    position: relative;
+    width: 120px;
+    height: 24px;
+    display: flex;
+    flex-shrink: 1;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;   
+}
+.FAQ-text{
+    color: rgba(52, 96, 255, 1);
+    width: 105px;
+    position: absolute;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'DM Sans';
+    font-weight: 600;
+    line-height: 24px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+  .landing-page-vector {
+    top: 6px;
+    left: 105px;
+    width: 15px;
+    height: 13px;
+    position: absolute;
+  }
