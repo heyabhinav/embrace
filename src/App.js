@@ -9,6 +9,7 @@ import OurTeam from './components/OurTeam/OurTeam';
 import Clients from './components/Clients/Clients';
 import StartJourney from './components/StartJourney/StartJourney';
 import Help from './components/Help/Help';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Clients/>
       <StartJourney/>
       <Help/>
+      <Footer/>
     </>
   );
 }
