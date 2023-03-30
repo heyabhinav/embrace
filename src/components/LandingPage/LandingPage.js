@@ -92,7 +92,7 @@ function LandingPage(){
               className="img-stack-basic rectangle200"
             />
             <img
-              src="images/Rectangle 201.svg"
+              src="images/pencile.png"
               alt=""
               className="img-stack-basic rectangle201"
             />
@@ -112,7 +112,7 @@ function LandingPage(){
               className="img-stack-basic rectangle204"
             />
             <img
-              src="images/Rectangle 205.svg"
+              src="images/crown.png"
               alt=""
               className="img-stack-basic rectangle205"
             />
@@ -130,13 +130,13 @@ function LandingPage(){
             
           </div>
           <span>
-              <img src="/images/pencile.png" className="pencile"/>
+              {/* <img src="/images/pencile.png" className="pencile"/> */}
           </span>
           <span>
-              <img src="/images/girl-emoji.svg" className="girl-emoji"/>
+              {/* <img src="/images/girl-emoji.svg" className="girl-emoji"/> */}
           </span>
           <span >
-              <img src="/images/crown.svg" className="crown"/>
+              {/* <img src="/images/crown.svg" className="crown"/> */}
           </span>
           <span className="just">
               <img src="/images/just.png" className="just"/>
