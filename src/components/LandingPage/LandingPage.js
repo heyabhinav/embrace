@@ -129,21 +129,6 @@ function LandingPage(){
             />
             
           </div>
-          <span>
-              {/* <img src="/images/pencile.png" className="pencile"/> */}
-          </span>
-          <span>
-              {/* <img src="/images/girl-emoji.svg" className="girl-emoji"/> */}
-          </span>
-          <span >
-              {/* <img src="/images/crown.svg" className="crown"/> */}
-          </span>
-          {/* <span className="just"> */}
-              {/* <img src="/images/just.png" className="just"/> */}
-          {/* </span> */}
-          {/* <span className="loving-emoji"> */}
-            {/* <span><img src="/images/loving-it.png" className="loving-emoji"/></span> */}
-          {/* </span> */}
         </div>
         </>
     )
