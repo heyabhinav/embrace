@@ -107,7 +107,7 @@ function LandingPage(){
               className="img-stack-basic ellipse84"
             />
             <img
-              src="/images/Rectangle 204.svg"
+              src="/images/girl.png"
               alt=""
               className="img-stack-basic rectangle204"
             />
