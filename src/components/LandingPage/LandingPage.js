@@ -83,48 +83,48 @@ function LandingPage(){
           <div className="img-stack landing-page-group237494">
             <img
               src="images/Rectangle 196.svg"
-              alt="Female1"
+              alt=""
               className="img-stack-basic rectangle196"
             />
             <img
               src="/images/Rectangle 200.svg"
-              alt="Rectangle2001699"
+              alt=""
               className="img-stack-basic rectangle200"
             />
             <img
               src="images/Rectangle 201.svg"
-              alt="Rectangle2011700"
+              alt=""
               className="img-stack-basic rectangle201"
             />
             <img
               src="/images/Rectangle 202.svg"
-              alt="Rectangle2021701"
+              alt=""
               className="img-stack-basic rectangle202"
             />
             <img
               src="/images/Ellipse 84.svg"
-              alt="Ellipse841702"
+              alt=""
               className="img-stack-basic ellipse84"
             />
             <img
               src="/images/Rectangle 204.svg"
-              alt="Rectangle2041697"
+              alt=""
               className="img-stack-basic rectangle204"
             />
             <img
               src="images/Rectangle 205.svg"
-              alt="Rectangle2051698"
+              alt=""
               className="img-stack-basic rectangle205"
             />
             
             <img
               src="images/union1706-wmw.svg"
-              alt="message cloud 1"
+              alt=""
               className="cloud-1 landing-page-union1"
             />
             <img
               src="/images/union1703-802h.svg"
-              alt="message cloud 2"
+              alt=""
               className="cloud-2 landing-page-union"
             />
             
