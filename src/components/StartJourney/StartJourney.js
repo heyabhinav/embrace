@@ -6,7 +6,7 @@ function StartJourney(){
         <>
         <div className="banner2">
             <div className="banner2-container">
-                <div className="landing-page-frame241">
+                <div className="landing-page-frame241 pointer up">
                     <span className="start-now-text">
                         <span>Start Now</span>
                     </span>

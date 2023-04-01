@@ -23,21 +23,21 @@ function LandingPage(){
                 />
               </div>
               <div className="nav-bar">
-                <span className="nav-bar-text">
+                <span className="nav-bar-text pointer">
                   <span>How it Works</span>
                 </span>
-                <span className="nav-bar-text">
+                <span className="nav-bar-text pointer">
                   <span>Our Work</span>
                 </span>
-                <span className="nav-bar-text">
+                <span className="nav-bar-text pointer">
                   <span>Pricing</span>
                 </span>
-                <span className="nav-bar-text">
+                <span className="nav-bar-text pointer">
                   <span>About Us</span>
                 </span>
               </div>
             </div>
-            <div className="try-button">
+            <div className="try-button pointer">
               <span className="try-button-text">
                 <span>Try it Now</span>
               </span>
@@ -66,7 +66,7 @@ function LandingPage(){
                             <span>Enter your Email</span>
                         </span>
                     </div>
-                    <div className="lets-talk-div">
+                    <div className="lets-talk-div pointer">
                         <span className="lets-talk">
                             <span>Lets Talk</span>
                         </span>
@@ -84,48 +84,48 @@ function LandingPage(){
             <img
               src="images/Rectangle 196.svg"
               alt=""
-              className="img-stack-basic rectangle196"
+              className="img-stack-basic rectangle196 up"
             />
             <img
               src="/images/Rectangle 200.svg"
               alt=""
-              className="img-stack-basic rectangle200"
+              className="img-stack-basic rectangle200 up"
             />
             <img
               src="images/pencile.png"
               alt=""
-              className="img-stack-basic rectangle201"
+              className="img-stack-basic rectangle201 up"
             />
             <img
               src="/images/Rectangle 202.svg"
               alt=""
-              className="img-stack-basic rectangle202"
+              className="img-stack-basic rectangle202 up"
             />
             <img
               src="/images/Ellipse 84.svg"
               alt=""
-              className="img-stack-basic ellipse84"
+              className="img-stack-basic ellipse84 up"
             />
             <img
               src="/images/girl.png"
               alt=""
-              className="img-stack-basic rectangle204"
+              className="img-stack-basic rectangle204 up"
             />
             <img
               src="images/crown.png"
               alt=""
-              className="img-stack-basic rectangle205"
+              className="img-stack-basic rectangle205 up "
             />
             
             <img
               src="images/loving-it.png"
               alt=""
-              className="cloud-1 landing-page-union1"
+              className="cloud-1 landing-page-union1 up "
             />
             <img
               src="/images/just.png"
               alt=""
-              className="cloud-2 landing-page-union"
+              className="cloud-2 landing-page-union up"
             />
             
           </div>

@@ -46,7 +46,7 @@ function Banner(){
                         company's story and
                         </span>
                     </span>
-                    <div className="learn-more-button">
+                    <div className="learn-more-button pointer up">
                         <span className="learn-more-text">
                             <span>Learn More</span>
                         </span>

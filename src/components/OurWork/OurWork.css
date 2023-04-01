@@ -70,7 +70,13 @@
   height: 324px;
   border-radius: 40px;
   margin-bottom: 16px;
+  transition: all 200ms ease-in;
 }
+
+.brand-img:hover{
+  transform: translateY(-2.5%);
+}
+
 .brand-text{
   display: flex;
   position: relative;
@@ -115,7 +121,13 @@
   border-color: transparent;
   border-radius: 64px;
   background-color: rgba(52, 96, 255, 1);
+  transition: all 200ms ease-in;
 }
+
+.see-more:hover{
+  transform: translateY(-10%);
+}
+
 .more-text{
   color: rgba(255, 255, 255, 1);
   height: auto;

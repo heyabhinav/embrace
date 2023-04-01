@@ -62,7 +62,7 @@ function Commitments(){
                                 </span>
                             </span>
                         </div>
-                    <div className="learn-more-img">
+                    <div className="learn-more-img pointer">
                             <span className="commitment-learn-more-text">
                                 <span>Learn More</span>
                             </span>

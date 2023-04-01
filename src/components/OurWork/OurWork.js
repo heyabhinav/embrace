@@ -73,7 +73,7 @@ function OurWork(){
                         </div>
                     </div>
                 </div>
-                <div className="see-more">
+                <div className="see-more pointer">
                     <span className="more-text">
                         <span>See More</span>
                     </span>

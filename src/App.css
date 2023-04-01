@@ -11,3 +11,22 @@ body{
   background-color: #ffffff;
   font-family: sans-serif;
 }
+
+.pointer{
+  cursor: pointer;
+}
+
+.up{
+  transition: all 300ms ease-in;
+}
+
+.up:hover{
+  transform: translateY(-5%);
+}
+
+.b{
+  transition: all 275ms ease-in;
+}
+.b:hover{
+  font-weight: 700;
+}

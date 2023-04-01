@@ -67,14 +67,14 @@ function Help(){
                                     <span>Enter your Email</span>
                                 </span>
                             </div>
-                            <div className="talk-box">
+                            <div className="talk-box pointer up">
                                 <span className="talk-text">
                                     <span>Lets Talk</span>
                                 </span>
                             </div>
                         </div>
                     </div>
-                    <div className="FAQ-box">
+                    <div className="FAQ-box pointer up">
                         <span className="FAQ-text">
                             <span>More FAQ</span>
                         </span>

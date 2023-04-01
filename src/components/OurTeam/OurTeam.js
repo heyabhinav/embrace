@@ -11,34 +11,34 @@ function OurTeam(){
                         <img
                         src="/images/Rectangle 185.svg"
                         alt="Rectangle1851537"
-                        className="rectangle185"
+                        className="rectangle185 up"
                         />
                         <img
                         src="/images/Rectangle 184.svg"
                         alt="Rectangle1841538"
-                        className="rectangle184"
+                        className="rectangle184 up "
                         />
                         <img
                         src="/images/Rectangle 181.svg"
                         alt="Rectangle1811539"
-                        className="rectangle181"
+                        className="rectangle181 up"
                         />
                     </div>
                     <div className="image-container-2">
                         <img
                         src="/images/Rectangle 182.svg"
                         alt="Rectangle1821541"
-                        className="rectangle182"
+                        className="rectangle182 up "
                         />
                         <img
                         src="/images/Rectangle 183.svg"
                         alt="Rectangle1831542"
-                        className="rectangle183"
+                        className="rectangle183 up"
                         />
                         <img
                         src="/images/Rectangle 186.svg"
                         alt="Rectangle1861543"
-                        className="rectangle186"
+                        className="rectangle186 up"
                         />
                     </div>
                 </div>
@@ -62,7 +62,7 @@ function OurTeam(){
                         </span>
                         </span>
                     </div>
-                    <div className="meet-team-learn-more">
+                    <div className="meet-team-learn-more pointer up">
                         <span className="meet-team-learn-more-text">
                             <span>Learn More</span>
                         </span>

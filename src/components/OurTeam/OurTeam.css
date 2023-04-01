@@ -92,6 +92,9 @@
     border-color: transparent;
     flex-direction: column;
 }
+
+
+
 .text-area{
     display: flex;
     position: relative;

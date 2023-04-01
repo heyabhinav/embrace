@@ -119,8 +119,10 @@
     display: flex;
     position: relative;
     align-items: flex-start;
-    /* margin-left: 75px; */
+    /* margin: 0 .5em; */
     flex-direction: column;
+    /* background-color: aqua; */
+    /* padding: 0 2em; */
   }
 .op-text{
     color: rgba(0, 0, 0, 1);
@@ -132,10 +134,7 @@
     font-family: 'DM Sans';
     font-weight: 500;
     line-height: 20px;
-    font-stretch: normal;
-    margin-right: 0;
     margin-bottom: 48px;
-    text-decoration: none;
 }
 .landing-page-footer {
     top: 870%;
@@ -146,8 +145,6 @@
     overflow: hidden;
     position: absolute;
     align-items: flex-start;
-    flex-shrink: 0;
-    border-color: transparent;
     background-color: rgba(0, 0, 0, 0.800000011920929);
 }
 .copyright{

@@ -24,12 +24,13 @@
     /* background-color: bisque; */
 }
 .landing-page-frame96 {
-    width: 50%;
+    width: 60%;
     display: flex;
     position: relative;
     align-items: center;
     border-color: transparent;
-    margin-right: 474px;
+    /* justify-content: flex-start; */
+    margin-right: 325px;
     /* background-color: aquamarine; */
 }
 
@@ -45,7 +46,7 @@
     align-items: flex-start;
     flex-shrink: 1;
     margin-right: 88px;
-    /* background-color: aqua; */
+    /* background-color: rgb(68, 139, 139); */
 }
 
 .header .header-circle{
@@ -81,8 +82,9 @@
 }
 
 .nav-bar{
-    width: 800px;
+    width: 900px;
     /* height: 22px; */
+    padding: .4em 0;
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 500;
@@ -94,6 +96,7 @@
 }
 .nav-bar-text{
     color: rgba(0, 0, 0, 1);
+    padding: .4em .7em;
     font-size: .9rem;
     font-style: Medium;
     text-align: left;
@@ -102,6 +105,16 @@
     line-height: normal;
     font-stretch: normal;
     margin-right: 2em;
+    border-radius: 1.5em;
+    /* transform: translateY(-2.5%); */
+    transition: all 325ms ease-in;
+}
+.nav-bar-text:hover{
+    background-color: #252525;
+    /* transform: translateY(-2.5%); */
+    padding: .4em .7em;
+    color: #FAF9F6;
+    border-radius: 1.5em;
 }
 .try-button{
     display: flex;
@@ -111,9 +124,14 @@
     border-color: transparent;
     border-radius: 70px;
     background-color: rgba(52, 96, 255, 1);
+    transition: all 200ms ease-in;
     /* margin-left: 1.8em; */
 }
-
+.try-button:hover{
+    /* background-color: rgb(86, 123, 255); */
+    transform: translateY(-10%);
+    /* border: 2px solid black; */
+}
 .try-button-text{
     color: rgba(255, 255, 255, 1);
     height: auto;
@@ -322,44 +340,3 @@
     height: 100px;
     position: absolute;
 } 
-.loving-emoji{
-  top: 52px;
-  left: 564px;
-  color: rgba(0, 0, 0, 1);
-  width: 55px;
-  height: 69px;
-  height: auto;
-  position: absolute;
-/* padding: 2em; */
-/* background-color: aqua; */
-}
-.pencile{
-  top: 400px;
-  left: 900px;
-  color: rgba(0, 0, 0, 1);
-  width: 89px;
-  height: 90px;
-  position: absolute;
-}
-.girl-emoji {
-  top: 574px;
-  left: 1090px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  position: absolute;
-}
-.crown {
-  top: 570px;
-  left: 1250px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  position: absolute;
-}
-.just{
-  top: 240px;
-  left: 508px;
-  color: rgba(0, 0, 0, 1);
-  width: 55px;
-  height: auto;
-  position: absolute;
-}

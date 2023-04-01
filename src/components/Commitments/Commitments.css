@@ -134,7 +134,11 @@
     flex-shrink: 1;
     flex-direction: row;
     justify-content: flex-start;
+    transition: all 325ms ease-in;
+    border-radius: 1.5em;
+    /* padding: 0.3em .7em; */
 }
+
 .commitment-learn-more-text{
     color: rgba(52, 96, 255, 1);
     width: 105px;
@@ -146,7 +150,9 @@
     font-weight: 600;
     line-height: 24px;
     text-decoration: underline;
+    /* transition: all 325ms ease-in; */
 }
+
 .vector4 {
     top: 6px;
     left: 105px;

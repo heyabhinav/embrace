@@ -29,7 +29,7 @@ function Working(){
                     <div className="row-1">
                         <div className="row-1-col">
                             <div className="img-head">
-                                <div className="key-img">
+                                <div className="key-img pointer up">
                                     <img
                                         src="/images/Vector(0).svg"
                                         className=""
@@ -48,7 +48,7 @@ function Working(){
                         </div>
                         <div className="row-1-col">
                             <div className="img-head">
-                                <div className="key-img">
+                                <div className="key-img pointer up">
                                     <img
                                     src="/images/Vector (1).svg"
                                     className=""
@@ -69,7 +69,7 @@ function Working(){
                     <div className="row-2">
                         <div className="row-1-col">
                             <div className="img-head">
-                                <div className="key-img">
+                                <div className="key-img pointer up">
                                     <img
                                         src="/images/Vector (2).svg"
                                         className=""
@@ -88,7 +88,7 @@ function Working(){
                         </div>
                         <div className="row-1-col">
                             <div className="img-head">
-                                <div className="key-img">
+                                <div className="key-img pointer up">
                                     <img
                                         src="/images/Vector (3).svg"
                                         className=""

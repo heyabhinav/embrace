@@ -38,48 +38,48 @@ function Footer(){
                 alt="icbaselinefacebook1448"
                 className="social facebook"
             />
-            <div className="contact-box landing-page-frame24">
-                <span className="contact-text landing-page-text030">
+            <div className="contact-box pointer up">
+                <span className="contact-text">
                     <span>Contact Us</span>
                 </span>
             </div>
-            <div className="footer-options landing-page-frame103">
+            <div className="footer-options">
                 <div className="op-cols">
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Work With Us</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Advertise With Us</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Support Us</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Business Advices</span>
                     </span>
                 </div>
                 <div className="op-cols">
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Private Coaching</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Our Work</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Our Commitment</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Our Team</span>
                     </span>
                 </div>
                 <div className="op-cols">
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>About Us</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>FAQs</span>
                     </span>
-                    <span className="op-text">
+                    <span className="op-text pointer up b">
                         <span>Report a Bug</span>
                     </span>
                 </div>
