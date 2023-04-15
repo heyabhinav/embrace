@@ -172,3 +172,8 @@
     position: absolute;
     padding: .8em;
 }
+@media only screen and (max-width: 480px){
+    .testimonial {
+        display: none;
+    }
+}
