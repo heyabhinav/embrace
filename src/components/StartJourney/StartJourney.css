@@ -80,3 +80,8 @@
     height: 95px;
     position: absolute;
 }
+@media only screen and (max-width: 480px){
+    .banner2{
+        display: none;
+    }
+}
