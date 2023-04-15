@@ -7,6 +7,11 @@ function Help(){
         <div className="landing-page-help">
             <div className="landing-page-frame93">
                 <div className="landing-page-frame90">
+                    <div>
+                        <span className="ques-heading hide">
+                            <span>How we can help you?</span>
+                        </span>
+                    </div>
                     <div className="ques-box top">
                         <div className="ques-frame">
                         <span className="question">
