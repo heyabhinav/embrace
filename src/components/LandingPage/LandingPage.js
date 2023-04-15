@@ -21,6 +21,7 @@ function LandingPage(){
                   alt="Polygon11685"
                   className="header-arrow"
                 />
+                
               </div>
               <div className="nav-bar">
                 <span className="nav-bar-text pointer">
@@ -44,6 +45,49 @@ function LandingPage(){
             </div>
           </div>
         </div>
+
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          
+          <a class="navbar-brand" href="/">
+          <img
+            src="/images/circle.svg"
+            alt="Ellipse871684"
+            className="hc"
+          />
+          <img
+            src="/images/triangle.svg"
+            alt="Polygon11685"
+            className="ha"
+          />Embrace</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 x">
+              <li class="nav-item pointer">
+                <a class="nav-link active" aria-current="page" href="/">How it works</a>
+              </li>
+              <li class="nav-item pointer">
+                <a class="nav-link" href="/">Our work</a>
+              </li>
+              <li class="nav-item pointer">
+                <a class="nav-link" href="/">Pricing</a>
+              </li>              
+              <li class="nav-item pointer">
+                <a class="nav-link" href="/">About Us</a>
+              </li>
+            </ul>
+            <div className="try-button pointer">
+              <span className="try-button-text">
+                <span>Try it Now</span>
+              </span>
+            </div>
+          </div>
+        </div>
+        </nav>
+
+        {/* Hero */}
         <div className="landing-page-hero-section">
             <div className="landing-page-group589">
                 <span className="landing-page-text">
