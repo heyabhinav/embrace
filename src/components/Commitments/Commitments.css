@@ -10,7 +10,7 @@
     overflow: hidden;
     /* background-color: aqua; */
 }
-.container{
+.container-1{
     position: absolute;
     top: 103px;
     left: 100px;
@@ -20,7 +20,7 @@
     flex-shrink: 0;
     /* background-color: aqua; */
 }
-.col-1{
+.col1{
     width: 505px;
     display: flex;
     position: relative;
@@ -101,6 +101,9 @@
     /* background-color: aquamarine; */
     
 }
+.hide{
+    display: none;
+}
 .commitments-heading{
     color: rgba(0, 0, 0, 1);
     width: 385px;
@@ -159,4 +162,68 @@
     width: 15px;
     height: 13px;
     position: absolute;
+}
+
+@media only screen and (max-width: 480px){
+    .our-commitments{
+        top: 185%;
+        width: 95%;
+        height: 620px;
+        margin: .5em;
+        /* background-color: aqua; */
+    }
+    .hide{
+        display: block;
+        /* margin-bottom: 2em; */
+    }
+    .container-1{
+        position: absolute;
+        flex-direction: column;
+        top: 80px;
+        left: 0px;
+        margin: 1em;
+        width: 100%;
+        /* background-color: aqua; */
+    }
+    .col1{
+        width: 100%;
+        margin-right: 0px;
+    }
+    .row-1, .row-2{
+        margin-bottom: 5px;
+    }
+    .highlight-text-bold{
+        font-size: 40px;
+    }
+
+    .revenue, .brands{
+        margin-right: 50px;
+    }
+
+    .commitments-textbox{
+        width: 100%;
+        margin: 2em 0;
+        height: 155px;
+    }
+
+    .head-text{
+        height: 10px;
+        width: 95%;
+        /* background-color: blue; */
+        margin: 0px;
+    }
+
+    .head-text .commitments-heading{
+        display: none;
+    }
+
+    .commitments-text {
+        width: 100%;
+        margin: 0em;
+        /* background-color: aquamarine; */
+        font-size: 13px;
+        text-align: justify;
+        font-family: "DM Sans";
+        line-height: 25px;
+    }
 }

@@ -5,8 +5,13 @@ function Commitments(){
     return(
         <>
         <div className="our-commitments">
-            <div className="container">
-                <div className="col-1">
+            <div>
+                <span className="commitments-heading hide">
+                    <span>Our Commitments</span>
+                </span>
+            </div>
+            <div className="container-1">
+                <div className="col1">
                     <div className="row-1">
                         <div className="revenue">
                             <span className="highlight-text-bold">
@@ -46,31 +51,31 @@ function Commitments(){
                         </div>
                     </div>
                 </div>
-                    <div className="commitments-textbox">
-                        <div className="head-text">
-                            <span className="commitments-heading">
-                                <span>Our Commitments</span>
+                <div className="commitments-textbox">
+                    <div className="head-text">
+                        <span className="commitments-heading">
+                            <span>Our Commitments</span>
+                        </span>
+                        <span className="commitments-text">
+                            <span>
+                                Use this section to describe your company and the products
+                                you offer. You could share your company's story and details
+                                about why you are in business. Use this section to describe
+                                your company and the products you offer. You could share
+                                your company's story and details about why you are in
+                                business.
                             </span>
-                            <span className="commitments-text">
-                                <span>
-                                    Use this section to describe your company and the products
-                                    you offer. You could share your company's story and details
-                                    about why you are in business. Use this section to describe
-                                    your company and the products you offer. You could share
-                                    your company's story and details about why you are in
-                                    business.
-                                </span>
-                            </span>
-                        </div>
+                        </span>
+                    </div>
                     <div className="learn-more-img pointer">
-                            <span className="commitment-learn-more-text">
-                                <span>Learn More</span>
-                            </span>
-                            <img
-                            src="/images/Vector.svg"
-                            alt="Arrow"
-                            className="vector4"
-                            />
+                        <span className="commitment-learn-more-text">
+                            <span>Learn More</span>
+                        </span>
+                        <img
+                        src="/images/Vector.svg"
+                        alt="Arrow"
+                        className="vector4"
+                        />
                     </div>
                 </div>
             </div>
