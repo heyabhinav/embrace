@@ -101,3 +101,52 @@
 .asana{
     width: 127px;
 }
+
+@media only screen and (max-width: 480px)  {
+    .company-partners{
+        top: 115%;
+        width: 100%;
+        height: 442px;
+    }
+    .spotify{
+        width: 75px; 
+    }
+    .google{
+        width: 75px;
+    }
+    .uber{
+        width:45px;
+    }
+    .microsoft{
+        width: 75px;
+    }
+    .shopify{
+        width: 75px;
+    }
+    .evernote{
+        width: 75px;
+    }
+    .adobe{
+        width: 75px;
+    }
+    .paypal{
+        width: 75px;
+    }
+    .amazon{
+        width: 60px;
+    }
+    .asana{
+        width: 50px;
+    }
+    .company-logo-common{
+        height: 48px;
+        margin: .5em ;
+        position: relative;
+    }
+    .companies-band-1{
+        top : 225px
+    }
+    .companies-band-2{
+        top : 300px
+    }
+}
