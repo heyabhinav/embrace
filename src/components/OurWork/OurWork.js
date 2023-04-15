@@ -20,7 +20,7 @@ function OurWork(){
                         </span>
                     </div>
                     <div className="our-work-images">
-                        <div className="apple-img-text">
+                        <div className="apple-img-text t">
                             <img
                                 src="/images/Rectangle 161.svg"
                                 alt="Apple"
@@ -37,7 +37,7 @@ function OurWork(){
                                 </span>
                             </div>
                         </div>
-                        <div className="cola-img-text">
+                        <div className="cola-img-text t">
                             <img
                                 src="/images/Rectangle 161-1.svg"
                                 alt="CocaCola"
@@ -54,7 +54,7 @@ function OurWork(){
                                 </span>
                             </div>
                         </div>
-                        <div className="nike-img-text">
+                        <div className="nike-img-text t">
                             <img
                                 src="/images/Rectangle 161-2.svg"
                                 alt="Rectangle1611586"

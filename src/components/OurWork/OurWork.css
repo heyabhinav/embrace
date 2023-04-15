@@ -137,3 +137,43 @@
   font-family: 'DM Sans';
   font-weight: 500;
 }
+
+@media only screen and (max-width: 480px){
+  .our-work {
+    top: 440%;
+    left: 0px;
+    width: 100%;
+    height: 1860px;
+    /* background-color: aquamarine; */
+  }
+  .rows-center {
+    position: absolute;
+    top: 79px;
+    left: 0;
+    width: 96%;
+    margin: .5em;
+    /* background-color: blueviolet; */
+  }
+  .our-work-text-images {
+    width: 100%;
+  }
+  .our-work-subtext {
+    color: rgba(0, 0, 0, 0.6000000238418579);
+    width: 100%;
+    font-size: 16px;
+    text-align: justify;
+    font-family: 'DM Sans';
+    font-weight: 400;
+  }
+
+  .our-work-images {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .our-work-images div.t{
+    margin: auto; 
+    margin-bottom: 3em;  
+  }
+}
